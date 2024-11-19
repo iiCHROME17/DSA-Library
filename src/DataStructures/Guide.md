@@ -24,15 +24,15 @@ Start with understanding and implementing these structures:
 ---
 
 ## 3. Study Key Algorithms
-| **Algorithm Type**      | **Algorithms to Learn**         | **Example Problems**                      |
-|--------------------------|---------------------------------|-------------------------------------------|
-| **Sorting**              | Quick Sort, Merge Sort, Heap Sort | Merge Intervals                         |
-| **Searching**            | Binary Search, Interpolation Search | Find Peak Element                     |
-| **Dynamic Programming (DP)** | Memoization, Tabulation     | Knapsack Problem                         |
-| **Greedy Algorithms**    | Huffman Coding, Activity Selection | Minimum Spanning Tree                  |
-| **Divide and Conquer**   | Merge Sort, Quick Sort          | Maximum Subarray (Kadane's Algorithm)    |
-| **Backtracking**         | N-Queens Problem               | Subset Sum Problem                       |
-| **Bit Manipulation**     | XOR Operations, Bit Masking    | Single Number Problem                    |
+| **Algorithms to Learn**         | **Example Problems**                      |
+|---------------------------------|-------------------------------------------|
+| Quick Sort, Merge Sort, Heap Sort | Merge Intervals                         |
+| Binary Search, Interpolation Search | Find Peak Element                     |
+| Memoization, Tabulation     | Knapsack Problem                         |
+| Huffman Coding, Activity Selection | Minimum Spanning Tree                  |
+| Merge Sort, Quick Sort          | Maximum Subarray (Kadane's Algorithm)    |
+| N-Queens Problem               | Subset Sum Problem                       |
+| XOR Operations, Bit Masking    | Single Number Problem                    |
 
 ---
 
